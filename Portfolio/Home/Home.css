@@ -1,0 +1,56 @@
+.home {
+    background-image: url('../Images/background.gif');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    height: 100vh;
+} 
+.welcome {
+    font-weight: bolder;
+}
+.homeTextPart {
+    display: flex;
+    align-items: center;
+}
+.animatoin-text {
+    font-weight: bolder;
+}
+.homeTextPart h3 {
+    color: rgb(224, 10, 178) !important;
+}
+.imagePart {
+    padding-top: 72px;
+}
+.icons a{
+    font-size: 20px;
+    padding: 0px 10px;
+}
+.icons a:hover {
+    font-size: 25px;
+    color: rgb(224, 10, 178);
+}
+
+.icon {
+    color: white;
+}
+.icon:hover {
+    color: rgb(224, 10, 178);
+}
+
+@media screen and (max-width: 768px){
+    .home {
+        height: auto;
+    }
+    .homeTextPart {
+        text-align: center;
+        padding-top: 80px;
+    }
+}
+
+
+@media screen and (min-width: 769px){
+    .imagePart {
+        padding-left: 80px;
+    }
+}

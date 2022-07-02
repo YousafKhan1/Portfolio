@@ -1,0 +1,17 @@
+.about {
+    background-color: black;
+    transition: 2s;
+}
+.aboutTextPart {
+    display: flex;
+    align-items: center;
+}
+.downloadcvbtn  {
+    color: white;
+    background-color: rgb(211, 23, 111) ;
+}
+.downloadcvbtn:hover {
+    background-color: transparent;
+    color: white;
+    border: 1px solid rgb(211, 23, 111) !important;
+}

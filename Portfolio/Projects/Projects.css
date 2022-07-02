@@ -1,0 +1,33 @@
+.projects {
+    background-color: black;
+    color: white;
+}
+
+hr {
+    height: 2px;
+    background-image: -webkit-linear-gradient(left, rgb(0, 0, 0), rgb(255, 255, 255), rgb(255, 255, 255), rgb(0, 0, 0));
+}
+
+.myProjectsText {
+    text-align: center;
+}
+
+.myProjectsText span{
+    color: rgb(211, 23, 111);
+}
+.card {
+    transition: 2s;
+}
+.card:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.card-body a {
+    color: white;
+    background-color: rgb(211, 23, 111); 
+}
+
+.card-body a:hover {
+    background-color: transparent;
+    border: solid 1px rgb(211, 23, 111) !important;
+}

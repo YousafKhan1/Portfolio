@@ -1,0 +1,22 @@
+
+.navbar {
+    background-color: black !important;
+}
+.navbar-brand {
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(235, 14, 187) !important;
+}
+
+.navbar li {
+    padding: 0px 20px;
+}
+.navbar li a{
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar li a:hover{
+    color: rgb(235, 14, 187) !important;
+}
