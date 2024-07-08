@@ -13,14 +13,14 @@ const Contact = () => {
                 <article className='contact_option'>
                     <MdOutlineEmail className='contact_option_icon'/>
                     <h4>Email</h4>
-                    <h5>Youremail@gmail.com</h5>
-                    <a href="mailto:youremail@gmail.com">Send Message</a>
+                    <h5>muhammadyousafmasror@gmail.com</h5>
+                    <a href="mailto:muhammadyousafmasror@gmail.com">Send Message</a>
                 </article>
                 <article className='contact_option'>
                     <BsGithub className='contact_option_icon'/>
                     <h4>GitHub</h4>
-                    <h5>github.com/yousafkhan1</h5>
-                    <a href="github.com/yousafkhan1">Open</a>
+                    <h5>github.com/YousafKhan1</h5>
+                    <a href="github.com/YousafKhan1">Open</a>
                 </article>
             </div>
             <form>

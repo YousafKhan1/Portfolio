@@ -17,12 +17,12 @@ const Footer = () => {
 
         <div className="footer_social">
             <a href=""><BsLinkedin /></a>
-            <a href=""><BsGithub /></a>
+            <a href="github.com/YousafKhan1"><BsGithub /></a>
             <a href=""><BsMedium /></a>
         </div>
 
         <div className="footer_copyright">
-            <small>&copy; Mohammd Yousof. All Rights Reserved.</small>
+            <small>&copy;2022 Mohammad Yousof. All Rights Reserved.</small>
         </div>
     </footer>
   )

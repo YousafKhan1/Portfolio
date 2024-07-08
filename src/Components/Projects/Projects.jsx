@@ -18,7 +18,7 @@ const Projects = () => {
                 <h3>Contact MS</h3>
                 <small className='text-light'>MERN Stack</small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'>GitHub</a>
+                    <a href="https://github.com/YousafKhan1/contactms-client" className='btn'>GitHub</a>
                 </div>
             </article>
             <article className='project_item'>
@@ -28,7 +28,7 @@ const Projects = () => {
                 <h3>Blog MS</h3>
                 <small className='text-light'>MERN Stack</small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'>GitHub</a>
+                    <a href="https://github.com/YousafKhan1/MERN-Stack/tree/main/blog%20app" className='btn'>GitHub</a>
                 </div>
             </article>
             <article className='project_item'>
@@ -38,7 +38,7 @@ const Projects = () => {
                 <h3>Book MS</h3>
                 <small className='text-light'>MERN Stack</small>
                 <div className="project_item_btn">
-                    <a href="" className='btn'>GitHub</a>
+                    <a href="https://github.com/YousafKhan1/MERN-Stack/tree/main/Book%20Store%20MS%20using%20MERN%20Stack" className='btn'>GitHub</a>
                 </div>
             </article>
         </div>

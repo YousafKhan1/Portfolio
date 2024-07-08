@@ -31,15 +31,15 @@ const About = () => {
             <article className="about_card">
               <TfiWorld className="about_icon" />
               <h5>Location</h5>
-              <small>Adress ...</small>
+              <small>Kabul <br /> Afghanistan</small>
             </article>
             <article className="about_card">
               <BsTelephoneForward className="about_icon" />
               <h5>Contact</h5>
               <small>
                 <ul>
-                  <li>Phone:</li>
-                  <li>Email:</li>
+                  <li>Phone: +93783832546</li>
+                  <li>Email: muhammadyousafmasror@gmail.com</li>
                 </ul>
               </small>
             </article>
