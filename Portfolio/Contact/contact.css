@@ -1,0 +1,25 @@
+.contact {
+    background-color: black;
+}
+
+hr {
+    height: 2px;
+    background-image: -webkit-linear-gradient(left, rgb(0, 0, 0), rgb(255, 255, 255), rgb(255, 255, 255), rgb(0, 0, 0));
+}
+
+.contact button {
+    color: rgb(211, 23, 111);
+    border: 1px solid rgb(211, 23, 111);
+    background-color:  transparent;
+}
+
+.contact button:hover {
+    color: white;
+    background-color:  rgb(211, 23, 111);
+}
+
+@media screen and (min-width: 769px) {
+    #contactForm {
+        width: 50%;
+    }
+}
